@@ -1,1 +1,1 @@
-# OpenClassRoomProject
+# MyProject
